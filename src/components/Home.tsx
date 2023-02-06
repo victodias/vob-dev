@@ -1,0 +1,83 @@
+import { Navbar } from './Navbar'
+
+export function Home() {
+  return (
+    <div className='custom-container'>
+      <Navbar />
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1>conteúdo qualquer</h1>
+      <h1 id="about-me">Sobre mim</h1>
+    </div>
+  )
+}
